@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Compiled bytecode
+*.pyo
+*.pyd
+*.pyc
+
+# Model weights and logs
+model/
+*.pth
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+
+# Fonts or binary data
+*.ttf
+
+# IDEs
+.vscode/
+.idea/
